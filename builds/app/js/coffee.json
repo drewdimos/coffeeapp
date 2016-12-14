@@ -1,0 +1,21 @@
+[
+	{
+		"roaster": "Intelligentsia Coffee",
+		"location": "Chicago, IL",
+		"signature": "Black Cat Espresso",
+		"notes": "One of the best coffee roasters in the country, headquartered in Chicago, IL"
+	},
+	{
+		"roaster": "Ipsento Coffee",
+		"location": "Chicago, IL",
+		"signature": "The Ipsento",
+		"notes": "A new up and comer, Ipsento has two cafes in some of Chicago's coolest neighborhoods"
+	},
+	{
+		"roaster": "Counter Culture Coffee",
+		"location": "Durham, NC",
+		"signature": "Idido 13",
+		"Date": "",
+		"notes": "A thrid-wave staple, Counter Culture Coffee has been making great strides in the coffee world ethics"
+	}
+]
